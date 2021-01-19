@@ -1,0 +1,9591 @@
+/** SAMSUNG Galaxy SIX**/
+
+@media (min-width: 322px) and (max-width: 361px){
+
+    /** index.views - Galaxy SIX**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 140px;
+        left: 6%;
+        font-size: 0.5em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 10%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: -20px;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 0%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    
+
+/** partner-with-us.views - Galaxy SIX**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 36%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 310px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+            top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    color: black;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 950px;
+        height: 600px;
+    }
+
+/** newsletter-sign-up.php - Galaxy SIX**/
+
+    .form-newsletter{
+        top: 51%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+/** mobile-cell-phones.php - Galaxy SIX**/
+
+    .menu-ruta{
+        top: 36%;
+        left: 5%;
+        font-size: 0.7em;
+    }
+
+    .cuadro{
+        top: 41%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    .footercontenedorarticulos{
+        height: 100%;
+        top: 155%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - Galaxy SIX**/
+
+    .cuadroproducto{
+        top: 42%;
+        left: 5%;
+        width: 90%;
+        height: 95%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 40%;
+    }
+    /** business.views - Galaxy SIX**/
+
+    .loginbusiness{
+        top: 240px;
+        left: 10%;
+        width: 80%;
+        height: 210px;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    .footercontenedorhome{
+        height: 90%;
+        top: 155%;
+    }
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 40%;
+        width: 80%;
+    }
+
+    .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:1400%;
+        height: 100%;
+    }
+
+    .privacy{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:1750%;
+        height: 100%;
+    }
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 500px;
+    width: 100%;
+    height: 700px;
+}
+
+/** business-session.views - Galaxy SIX**/
+
+    .menu-encabezado-empresa{
+        font-size: 0.6em;
+        top: 7.5%;
+        left: 65%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 5%;
+        width: 90%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 5%;
+        width: 90%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 5%;
+        width: 90%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - Galaxy SIX**/
+
+    .contenedor-about{
+        top: -40px;
+        height: 1200px;
+        margin-bottom: 350px;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 0%;
+        height: 60%;
+        width: 100%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .about1-image{
+        top: 12%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 100%;
+    }
+
+    .about1-text p{
+        top: 50%;
+        font-size: 1em;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 37%;
+    }
+
+    .about2-text{
+        left: 5%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about2-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 10%;
+        width: 80%;
+        top: 12%;
+    }
+
+    .about2-image img{
+        width: 100%;
+    }
+
+    .about2-text p{
+        top: 55%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 77%;
+    }
+
+    .about3-text{
+        left: 5%;
+        top: 0%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about3-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 20%;
+        width: 80%;
+        top: 10%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 53%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 280%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 140%;
+    }
+
+    .footersocial{
+        top: 30%;
+    }
+
+    /** contact.views - Galaxy SIX**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 36%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 20px;
+    height: 300px;
+    width: 90%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 600px;
+    width: 100%;
+    height: 600px;
+}
+
+/** blog - Galaxy SIX**/
+
+.footercontenedorblog{
+    height: 700px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+/** articulos - Galaxy SIX**/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 140px;
+        left: 4%;
+        font-size: 0.5em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 200px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 20px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 200px;
+    width: 80%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 40%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** Iphone 10**/
+
+@media (min-width: 361px) and (max-width: 376px){
+
+    /** index.views - IPHONE 10**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 140px;
+        left: 4%;
+        font-size: 0.55em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 10%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: 30px;
+        margin-bottom: 8%;
+        font-size: 1.5em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 36%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    .footercontenedorhome{
+        height: 80%;
+        top: 125%;
+    }
+
+/** partner-with-us.views - IPHONE 10**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 29%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 310px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+            top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    color: black;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 950px;
+        height: 600px;
+    }
+
+/** newsletter-sign-up.php - IPHONE 10**/
+
+    .form-newsletter{
+        top: 41%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+/** mobile-cell-phones.php - IPHONE 10**/
+
+    .menu-ruta{
+        top: 30%;
+        left: 5%;
+        font-size: 0.8em;
+    }
+
+    .cuadro{
+        top: 35%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    .footercontenedorarticulos{
+        height: 100%;
+        top: 155%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - IPHONE**/
+
+    .cuadroproducto{
+        top: 37%;
+        left: 5%;
+        width: 90%;
+        height: 95%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 40%;
+    }
+    /** business.views - IPHONE 10**/
+
+    .loginbusiness{
+        top: 240px;
+        left: 10%;
+        width: 80%;
+        height: 210px;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 40%;
+        width: 80%;
+    }
+
+     .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:1020%;
+    }
+
+    .privacy{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:1280%;
+    }
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 500px;
+    width: 100%;
+    height: 700px;
+}
+
+/** business-session.views - IPHONE 10**/
+
+    .menu-encabezado-empresa{
+        font-size: 0.6em;
+        top: 7.5%;
+        left: 65%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 5%;
+        width: 90%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 5%;
+        width: 90%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 5%;
+        width: 90%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - IPHONE 10**/
+
+    .contenedor-about{
+        top: -80px;
+        height: 1600px;
+        margin-bottom: 200px;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 10%;
+        height: 60%;
+        width: 80%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .about1-image{
+        top: 11%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 100%;
+    }
+
+    .about1-text p{
+        top: 43%;
+        font-size: 1em;
+        left: 3%;
+        width: 94%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 29%;
+    }
+
+    .about2-text{
+        left: 5%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about2-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 10%;
+        width: 80%;
+        top: 11%;
+    }
+
+    .about2-image img{
+        width: 100%;
+    }
+
+    .about2-text p{
+        top: 47%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 60%;
+    }
+
+    .about3-text{
+        left: 5%;
+        top: 0%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about3-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 22%;
+        width: 80%;
+        top: 9%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 46%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 230%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 140%;
+    }
+
+    .footersocial{
+        top: 30%;
+    }
+
+    /** contact.views - IPHONE 10**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 29%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 20px;
+    height: 350px;
+    width: 90%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 700px;
+    width: 100%;
+    height: 600px;
+}
+
+/** blog - Iphone X**/
+
+.footercontenedorblog{
+    height: 700px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+/** articulos - Iphone X**/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 140px;
+        left: 6%;
+        font-size: 0.5em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 200px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 20px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 200px;
+    width: 80%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** Iphone 6/7/8**/
+
+@media (min-width: 361px) and (max-width: 376px) and (max-height: 668px){
+
+    /** index.views - IPHONE 6/7/8**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 140px;
+        left: 5%;
+        font-size: 0.6em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 10%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: 30px;
+        margin-bottom: 8%;
+        font-size: 1.5em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 36%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    .footercontenedorhome{
+        height: 90%;
+        top: 150%;
+    }
+
+/** partner-with-us.views - IPHONE 6/7/8**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 35.5%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 310px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+            top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    color: black;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 950px;
+        height: 600px;
+    }
+
+/** newsletter-sign-up.php - IPHONE 6/7/8**/
+
+    .form-newsletter{
+        top: 49%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+
+/** mobile-cell-phones.php - IPHONE 6/7/8**/
+
+    .menu-ruta{
+        top: 36%;
+        left: 5%;
+        font-size: 0.7em;
+    }
+
+    .cuadro{
+        top: 41%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    .footercontenedorarticulos{
+        height: 100%;
+        top: 155%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - ihpone 6/7/8**/
+
+    .cuadroproducto{
+        top: 42%;
+        left: 5%;
+        width: 90%;
+        height: 95%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 40%;
+    }
+    /** business.views - IPHONE 6/7/8**/
+
+    .loginbusiness{
+        top: 240px;
+        left: 10%;
+        width: 80%;
+        height: 210px;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 40%;
+        width: 80%;
+    }
+
+     .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:1220%;
+    }
+
+    .privacy{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:1550%;
+    }
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 500px;
+    width: 100%;
+    height: 700px;
+}
+
+/** business-session.views - IPHONE 6/7/8**/
+
+    .menu-encabezado-empresa{
+        font-size: 0.6em;
+        top: 7.5%;
+        left: 65%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 5%;
+        width: 90%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 5%;
+        width: 90%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 5%;
+        width: 90%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - IPHONE 6/7/8**/
+
+    .contenedor-about{
+        top: -80px;
+        height: 1600px;
+        margin-bottom: 200px;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 10%;
+        height: 60%;
+        width: 80%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .about1-image{
+        top: 11%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 100%;
+    }
+
+    .about1-text p{
+        top: 48%;
+        font-size: 1em;
+        left: 3%;
+        width: 94%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 34%;
+    }
+
+    .about2-text{
+        left: 5%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about2-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 10%;
+        width: 80%;
+        top: 11%;
+    }
+
+    .about2-image img{
+        width: 100%;
+    }
+
+    .about2-text p{
+        top: 53%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 70%;
+    }
+
+    .about3-text{
+        left: 5%;
+        top: 0%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about3-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 22%;
+        width: 80%;
+        top: 9%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 51%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 270%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 140%;
+    }
+
+    .footersocial{
+        top: 30%;
+    }
+
+    /** contact.views - IPHONE 6/7/8**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 35%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 20px;
+    height: 300px;
+    width: 90%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 700px;
+    width: 100%;
+    height: 600px;
+}
+
+/** blog - Iphone 6/7/8**/
+
+.footercontenedorblog{
+    height: 700px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+/** articulos - Iphone 6/7/8 **/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 140px;
+        left: 6%;
+        font-size: 0.5em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 200px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 20px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 200px;
+    width: 80%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** Iphone 5**/
+
+@media (max-width: 321px){
+
+    /** index.views - IPHONE 5**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 140px;
+        left: 5%;
+        font-size: 0.4em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.1em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 10%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: 25px;
+        margin-bottom: 8%;
+        font-size: 1.5em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 36%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    .footercontenedorhome{
+        height: 110%;
+        top: 120%;
+    }
+
+/** partner-with-us.views - IPHONE 5**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 39.5%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 300px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+            top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    color: black;
+    width: 65%;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 950px;
+        height: 600px;
+    }
+
+/** newsletter-sign-up.php - IPHONE 5**/
+
+    .form-newsletter{
+        top: 54%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+/** mobile-cell-phones.php - IPHONE 5**/
+
+    .menu-ruta{
+        top: 39%;
+        left: 5%;
+        font-size: 0.7em;
+    }
+
+    .cuadro{
+        top: 44%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    .footercontenedorarticulos{
+        height: 100%;
+        top: 180%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - IPHONE 5**/
+
+    .cuadroproducto{
+        top: 46%;
+        left: 5%;
+        width: 90%;
+        height: 110%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 37%;
+    }
+    /** business.views - IPHONE 5**/
+
+    .loginbusiness{
+        top: 240px;
+        left: 10%;
+        width: 80%;
+        height: 210px;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 40%;
+        width: 80%;
+    }
+
+     .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:1600%;
+        height: 110%;
+    }
+
+    .privacy{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:2100%;
+        height: 110%;
+    }
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 500px;
+    width: 100%;
+    height: 700px;
+}
+
+/** business-session.views - IPHONE 5**/
+
+    .menu-encabezado-empresa{
+        font-size: 0.6em;
+        top: 7.5%;
+        left: 65%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 5%;
+        width: 90%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 5%;
+        width: 90%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 5%;
+        width: 90%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - IPHONE 5**/
+
+    .contenedor-about{
+        top: 31%;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 0%;
+        height: 60%;
+        width: 100%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .about1-image{
+        top: 12%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 100%;
+    }
+
+    .about1-text p{
+        top: 50%;
+        font-size: 1em;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 37%;
+    }
+
+    .about2-text{
+        left: 5%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about2-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 10%;
+        width: 80%;
+        top: 12%;
+    }
+
+    .about2-image img{
+        width: 100%;
+    }
+
+    .about2-text p{
+        top: 55%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 77%;
+    }
+
+    .about3-text{
+        left: 5%;
+        top: 0%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about3-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 20%;
+        width: 80%;
+        top: 10%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 53%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 290%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 140%;
+    }
+
+    .footersocial{
+        top: 30%;
+    }
+
+    /** contact.views - IPHONE 5**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 38%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 20px;
+    height: 300px;
+    width: 90%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 700px;
+    width: 100%;
+    height: 600px;
+}
+
+/** blog - Iphone 5**/
+
+.footercontenedorblog{
+    height: 700px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+/** articulos - Iphone 5 **/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 140px;
+        left: 4%;
+        font-size: 0.4em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 200px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 20px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 200px;
+    width: 80%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 40%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** Iphone 6/7/8 plus**/
+
+@media (min-width: 377px) and (max-width: 415px){
+
+    /** index.views - IPHONE 6/7/8 plus**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 140px;
+        left: 5%;
+        font-size: 0.7em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 20%;
+        margin-bottom: 5%;
+        font-size: 1.1em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 10%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: 30px;
+        margin-bottom: 8%;
+        font-size: 1.5em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 50%;
+    font-size: 1em;
+    line-height: 25px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 36%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    .footercontenedorhome{
+        height: 110%;
+        top: 150%;
+    }
+
+/** partner-with-us.views - IPHONE 6/7/8 plus**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 31.5%;
+        text-align: center;
+        left: 5%;
+        width: 90%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 300px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+            top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    width: 65%;
+    color: black;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 950px;
+        height: 600px;
+    }
+
+/** newsletter-sign-up.php - IPHONE 6/7/8 plus**/
+
+    .form-newsletter{
+        top: 43%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+/** mobile-cell-phones.php - IPHONE 6/7/8 plus**/
+
+    .menu-ruta{
+        top: 34%;
+        left: 5%;
+        font-size: 0.8em;
+    }
+
+    .cuadro{
+        top: 39%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    .footercontenedorarticulos{
+        height: 100%;
+        top: 155%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - IPHONE 6/7/8 plus**/
+
+    .cuadroproducto{
+        top: 42%;
+        left: 5%;
+        width: 90%;
+        height: 95%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 40%;
+    }
+    /** business.views - IPHONE 6/7/8 plus**/
+
+    .loginbusiness{
+        top: 240px;
+        left: 10%;
+        width: 80%;
+        height: 210px;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 35%;
+        width: 80%;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 40%;
+        width: 80%;
+    }
+
+     .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:1030%;
+        height: 110%;
+    }
+
+    .privacy{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:1320%;
+    }
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 500px;
+    width: 100%;
+    height: 700px;
+}
+
+/** business-session.views - IPHONE 6/7/8 plus**/
+
+    .menu-encabezado-empresa{
+        font-size: 0.6em;
+        top: 7.5%;
+        left: 65%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 5%;
+        width: 90%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 5%;
+        width: 90%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 5%;
+        width: 90%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - IPHONE 6/7/8 plus**/
+
+    .contenedor-about{
+        top: 24%;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 10%;
+        height: 60%;
+        width: 80%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1em;
+    }
+
+    .about1-image{
+        top: 11%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 100%;
+    }
+
+    .about1-text p{
+        top: 48%;
+        font-size: 1em;
+        left: 3%;
+        width: 94%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 31%;
+    }
+
+    .about2-text{
+        left: 5%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about2-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 10%;
+        width: 80%;
+        top: 11%;
+    }
+
+    .about2-image img{
+        width: 100%;
+    }
+
+    .about2-text p{
+        top: 53%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 66%;
+    }
+
+    .about3-text{
+        left: 5%;
+        top: 0%;
+        height: 60%;
+        width: 90%;
+    }
+
+    .about3-text h3{
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 22%;
+        width: 80%;
+        top: 9%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 51%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 270%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 140%;
+    }
+
+    .footersocial{
+        top: 30%;
+    }
+
+    /** contact.views - IPHONE 6/7/8 plus**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 38%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 20px;
+    height: 350px;
+    width: 90%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 700px;
+    width: 100%;
+    height: 600px;
+}
+
+/** blog - Iphone 6/7/8 plus**/
+
+.footercontenedorblog{
+    height: 700px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 32%;
+}
+
+/** articulos - Iphone 6/7/8 plus **/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 140px;
+        left: 6%;
+        font-size: 0.6em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 22%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 200px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 20px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 200px;
+    width: 80%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 42%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** I-Pad**/
+
+@media (min-width: 767px) and (max-width: 1023px){
+
+       /** index.views - I-Pad**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 150px;
+        left: 4.5%;
+        font-size: 1.6em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 17%;
+        margin-bottom: 5%;
+        font-size: 2em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 17%;
+        margin-bottom: 5%;
+        font-size: 1.9em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: 75px;
+        margin-bottom: 12%;
+        font-size: 1.9em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 40%;
+    font-size: 1.5em;
+    line-height: 45px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 40%;
+    font-size: 1.5em;
+    line-height: 45px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 36%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    .footercontenedorhome{
+        height: 110%;
+        top: 150%;
+    }
+
+    .footercontenedorhome p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorhome a{
+        font-size: 1.3em;
+    }
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .p2{
+        top: 110%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 12%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 15%;
+        width: 80%;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 25%;
+        width: 80%;
+    }
+
+     .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:535%;
+        height: 110%;
+    }
+
+    .privacy{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:640%;
+    }
+
+
+
+/** partner-with-us.views - I-Pad**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 30%;
+        text-align: center;
+        left: 10%;
+        width: 80%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 370px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    font-size: 1.2em;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+            top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 20%;
+    color: black;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 1100px;
+        height: 1000px;
+    }
+
+    .footercontenedorpartnerwithus p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorpartnerwithus a{
+        font-size: 1.3em;
+    }
+
+/** newsletter-sign-up.php - I-Pad**/
+
+    .form-newsletter{
+        top: 37%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+    .partner-paragraph-newsletter{
+        position: absolute;
+        top: 30%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .newsletter-upgrade{
+        left: 47%;
+    }
+
+
+
+/** mobile-cell-phones.php - I-Pad**/
+
+    .menu-ruta{
+        top: 30%;
+        left: 5%;
+        font-size: 1.3em;
+    }
+
+    .cuadro{
+        top: 35%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - I-Pad**/
+
+    .cuadroproducto{
+        top: 37%;
+        left: 5%;
+        width: 90%;
+        height: 80%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+        font-size: 1.5em;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 42%;
+        font-size: 1.5em;
+    }
+    /** business.views - I-Pad**/
+
+    .loginbusiness{
+        top: 300px;
+        left: 10%;
+        width: 80%;
+        height: 250px;
+        font-size: 1.5em;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    
+
+
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 700px;
+    width: 100%;
+    height: 1100px;
+}
+
+    .footercontenedorbusiness p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorbusiness a{
+        font-size: 1.3em;
+    }
+
+/** business-session.views - I-Pad**/
+
+    .menu-encabezado-empresa{
+        font-size: 1em;
+        top: 5%;
+        left: 80%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 15%;
+        width: 70%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 15%;
+        width: 70%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 15%;
+        width: 70%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - I-Pad**/
+
+    .contenedor-about{
+        top: 23%;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 15%;
+        height: 60%;
+        width: 70%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1.5em;
+    }
+
+    .about1-image{
+        top: 11%;
+        left: 18%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 80%;
+    }
+
+    .about1-text p{
+        top: 50%;
+        font-size: 1em;
+        left: 5%;
+        width: 94%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 27%;
+    }
+
+    .about2-text{
+        left: 15%;
+        height: 60%;
+        width: 70%;
+    }
+
+    .about2-text h3{
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 17%;
+        width: 80%;
+        top: 11%;
+    }
+
+    .about2-image img{
+        width: 80%;
+    }
+
+    .about2-text p{
+        top: 55%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 58%;
+    }
+
+    .about3-text{
+        left: 15%;
+        top: 0%;
+        height: 60%;
+        width: 70%;
+    }
+
+    .about3-text h3{
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 22%;
+        width: 80%;
+        top: 9%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 63%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 270%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 120%;
+    }
+
+    .footersocial{
+        top: 17%;
+    }
+
+    .footercontenedorabout p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorabout a{
+        font-size: 1.3em;
+    }
+
+    /** contact.views - I-Pad**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 38%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 20px;
+    height: 500px;
+    width: 90%;
+    font-size: 1.5em;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 950px;
+    width: 100%;
+    height: 1000px;
+} 
+
+.footercontenedorcontact p{
+        font-size: 1.3em;
+    }
+
+.footercontenedorcontact a{
+        font-size: 1.3em;
+    }
+
+/** blog - Ipad**/
+
+.footercontenedorblog{
+    height: 900px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 45%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 42%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 42%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 42%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 42%;
+}
+
+/** articulos - IPad **/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 160px;
+        left: 4%;
+        font-size: 1.6em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 18%;
+        margin-bottom: 5%;
+        font-size: 1.6em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 300px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 20px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 300px;
+    width: 70%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 46%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+.footercontenedorarticle{
+    height: 1200px;
+}
+
+.footersocial ul{
+    left: -6%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** I-Pad Pro**/
+
+@media (min-width: 1024px) and (max-width: 1050px){
+
+       /** index.views - I-Pad Pro**/
+
+    .menu-encabezado{
+        position: absolute;
+        top: 160px;
+        left: 7%;
+        font-size: 2.1em;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 14%;
+        margin-bottom: 5%;
+        font-size: 2.3em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 17%;
+        margin-bottom: 5%;
+        font-size: 1.9em;
+    }
+
+    .titulo-producto-plantilla{
+        position: relative;
+        top: 95px;
+        margin-bottom: 12%;
+        font-size: 2.5em;
+    }
+
+
+    .torch{
+        position: absolute;
+        left: 85%;
+        top: 2%;
+    }
+
+    .torch img{
+        height: 40%;
+        width: 40%;
+    }
+
+    .elemento1{
+    height: 40%;
+    font-size: 1.5em;
+    line-height: 45px;
+    margin-bottom: 2%;
+    }
+
+    .elemento2{
+    height: 40%;
+    font-size: 1.5em;
+    line-height: 45px;
+    margin-bottom: 0px;
+    }
+
+    .contenedor-1{
+    position: relative;
+    top: 36%;
+    left: 5%;
+    height: 10%;
+    width: 90%;
+    margin-bottom: 2%;
+    }
+
+    .contenedor-2{
+        position: relative;
+        background-color: white;
+        top: 47%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-3{
+        position: relative;
+        top: 58%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-4{
+        position: relative;
+        top: 69%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-5{
+        position: relative;
+        top: 80%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+        margin-bottom: 2%;
+    }
+
+    .contenedor-6{
+        position: relative;
+        top: 91%;
+        left: 5%;
+        height: 10%;
+        width: 90%;
+    }    
+
+    .footercontenedorhome{
+        height: 110%;
+        top: 120%;
+    }
+
+    .footercontenedorhome p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorhome a{
+        font-size: 1.3em;
+    }
+
+    .footerempresa{
+        position: relative;
+        left: 10%;
+        width: 80%;
+    }
+
+    .p2{
+        top: 110%;
+    }
+
+    .footertwitterfeed{
+        position: relative;
+        left: 10%;
+        top: 12%;
+        width: 80%;
+    }
+
+    .footersocial{
+        position: relative;
+        left: 10%;
+        top: 15%;
+        width: 80%;
+        height: 
+    }
+
+    .footersocial ul li{
+        margin-top: 5%;
+        border-bottom-style: dashed;
+    }
+
+    .footerblog{
+        position: relative;
+        left: 10%;
+        top: 25%;
+        width: 80%;
+    }
+
+     .footerdetails{
+        position: relative;
+        top: 75%;
+        height: 40%;
+    }
+
+    .legales{
+        position: absolute;
+        left: 5%;
+        top: 2%;
+    }
+
+    .support{
+        position: absolute;
+        left: 5%;
+        top: 40%;
+        height: 20%;
+    }
+
+    .newsletter{
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        height: 20%;
+    }
+
+    .footerend{
+        position: relative;
+        top: 75%;
+    }
+
+    .footerend h6{
+        position: absolute;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .terms-and-conditions{
+        position: absolute;
+        top: 25%;
+        left: 5%;
+        width: 90%;
+
+    }
+
+    .footercontenedortyc{
+        top:350%;
+        height: 110%;
+    }
+
+    .privacy{
+        position: absolute;
+        top: 25%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .footercontenedorprivacy{
+        top:410%;
+    }
+
+
+
+/** partner-with-us.views - I-Pad Pro**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 24%;
+        text-align: center;
+        left: 10%;
+        width: 80%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 370px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    font-size: 1.2em;
+    }
+
+    .field1{
+        top: 2%;
+    }
+
+    .field2{
+        top: 12%;
+    }
+
+    .field3{
+        top: 22%;
+    }
+
+    .field4{
+        top: 32%;
+    }
+
+    .field5{
+        top: 42%;
+    }
+
+    .field6{
+        top: 52%;
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 52%;
+    left: 20%;
+    color: black;
+    }
+
+    .field8{
+        top:58%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 70%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 1100px;
+        height: 1000px;
+    }
+
+    .footercontenedorpartnerwithus p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorpartnerwithus a{
+        font-size: 1.3em;
+    }
+
+/** newsletter-sign-up.php - Galaxy SIX**/
+
+    .form-newsletter{
+        top: 29%;
+        left: 5%;
+        width: 90%;
+        height: 40%;
+    }
+
+    .partner-paragraph-newsletter{
+        position: absolute;
+        top: 25%;
+        left: 10%;
+        width: 80%;
+    }
+
+    .newsletter-upgrade{
+        left: 47%;
+    }
+
+/** mobile-cell-phones.php - I-Pad Pro**/
+
+    .menu-ruta{
+        top: 25%;
+        left: 5%;
+        font-size: 1.3em;
+    }
+
+    .cuadro{
+        top: 30%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - I-Pad Pro**/
+
+    .cuadroproducto{
+        top: 30%;
+        left: 5%;
+        width: 90%;
+        height: 80%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+        font-size: 2em;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 42%;
+        font-size: 2em;
+    }
+    /** business.views - I-Pad Pro**/
+
+    .loginbusiness{
+        top: 350px;
+        left: 10%;
+        width: 80%;
+        height: 250px;
+        font-size: 1.5em;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    
+
+
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 700px;
+    width: 100%;
+    height: 1100px;
+}
+
+    .footercontenedorbusiness p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorbusiness a{
+        font-size: 1.3em;
+    }
+
+/** business-session.views - I-Pad Pro**/
+
+    .menu-encabezado-empresa{
+        font-size: 1em;
+        top: 4%;
+        left: 80%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 15%;
+        width: 70%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 15%;
+        width: 70%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 15%;
+        width: 70%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - I-Pad Pro**/
+
+    .contenedor-about{
+        top: 16%;
+    }
+
+    .about1{
+        height: 80%;
+    }
+
+    .about1-text{
+        left: 15%;
+        height: 60%;
+        width: 70%;
+    }
+
+    .about1-text h3{
+        text-align: center;
+        font-size: 1.5em;
+    }
+
+    .about1-image{
+        top: 9%;
+        left: 18%;
+        width: 80%;
+    }
+
+    .about1-image img{
+        width: 80%;
+    }
+
+    .about1-text p{
+        top: 47%;
+        font-size: 1em;
+        left: 5%;
+        width: 94%;
+    }
+
+    .about2{
+        height: 80%;
+        top: 24%;
+    }
+
+    .about2-text{
+        left: 15%;
+        height: 60%;
+        width: 70%;
+    }
+
+    .about2-text h3{
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .about2-image{
+        left: 17%;
+        width: 80%;
+        top: 11%;
+    }
+
+    .about2-image img{
+        width: 80%;
+    }
+
+    .about2-text p{
+        top: 55%;
+        font-size: 1em;
+        left: 6%;
+        width: 90%;
+    }
+
+    .about3{
+        height: 80%;
+        top: 52%;
+    }
+
+    .about3-text{
+        left: 15%;
+        top: 0%;
+        height: 60%;
+        width: 70%;
+    }
+
+    .about3-text h3{
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .about3-image{
+        left: 22%;
+        width: 80%;
+        top: 9%;
+    }
+
+    .about3-image img{
+        width: 70%;
+    }
+
+    .about3-text p{
+        top: 63%;
+        font-size: 1em;
+        text-align: left;
+        left: 7%;
+        width: 90%;
+    }
+
+    .footercontenedorabout{
+        top: 230%;
+        height: 100%;
+    }
+
+    .p2{
+        top: 120%;
+    }
+
+    .footersocial{
+        top: 17%;
+    }
+
+    .footercontenedorabout p{
+        font-size: 1.3em;
+    }
+
+    .footercontenedorabout a{
+        font-size: 1.3em;
+    }
+
+
+    /** contact.views - I-Pad Pro**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 38%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: relative;
+    left: 5%;
+    top: 30px;
+    height: 600px;
+    width: 90%;
+    font-size: 1.5em;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 1150px;
+    width: 100%;
+    height: 1500px;
+} 
+
+.footercontenedorcontact p{
+        font-size: 1.3em;
+    }
+
+.footercontenedorcontact a{
+        font-size: 1.3em;
+    }
+
+/** blog - Ipad-Pro **/
+
+.footercontenedorblog{
+    height: 900px;
+}
+
+.footerblogimagen1{
+    height: 200px;
+}
+
+.footerblogarticulo1{
+    top: 40%;
+    width: 80%;
+}
+
+.newsletterblog{
+    left: 5%;
+    top: -15px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterblog h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterblog h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterblog a{
+    position: relative;
+    top: 0px;
+    left: 45%;
+    font-size: 0.6em;
+}
+
+
+
+.articlen1{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen1 img{
+    position: relative;
+    left: 15%;
+    width: 70%;
+}
+
+.articlen1 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen1 a{
+    position: relative;
+    top: 15px;
+    left: 45%;
+}
+
+.articlen2{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen2 img{
+    position: relative;
+    left: 15%;
+    width: 70%;
+}
+
+.articlen2 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen2 a{
+    position: relative;
+    top: 15px;
+    left: 45%;
+}
+
+.articlen3{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen3 img{
+    position: relative;
+    left: 15%;
+    width: 70%;
+}
+
+.articlen3 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen3 a{
+    position: relative;
+    top: 15px;
+    left: 45%;
+}
+
+.articlen4{
+    left: 5%;
+    top: 10px;
+    height: 260px;    
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.articlen4 img{
+    position: relative;
+    left: 15%;
+    width: 70%;
+}
+
+.articlen4 h3{
+    position: relative;
+    top: 5px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.articlen4 a{
+    position: relative;
+    top: 15px;
+    left: 45%;
+}
+
+/** articulos - IPad-Pro **/
+
+.menu-encabezado-articulo{
+        position: absolute;
+        top: 160px;
+        left: 15%;
+        font-size: 1.6em;
+    }
+
+.titulo-articulo{
+        position: relative;
+        margin-top: 15%;
+        margin-bottom: 5%;
+        font-size: 1.6em;
+    }
+
+.imagencabecera{
+    top: 0px;
+    left: 15%;
+    height: 300px;
+    width: 70%;
+}
+
+.contenidoarticle{
+    top: 30px;
+    left: 5%;
+    width: 90%;
+}
+
+.contenidoarticle img{
+    left: 10%;
+    height: 300px;
+    width: 70%;
+}
+
+.contenidoarticle p{
+    left: 4%;
+}
+
+.newsletterarticle{
+    left: 5%;
+    top: 120px;
+    width: 90%;
+    height: 85px;
+}
+
+.newsletterarticle h3{
+    position: relative;
+    font-size: 0.6em;
+}
+
+.newsletterarticle h4{
+    position: relative;
+    top: 0px;
+    font-size: 0.6em;
+}
+
+.newsletterarticle a{
+    position: relative;
+    top: 0px;
+    left: 47%;
+    font-size: 0.6em;
+}
+
+.formcomments{
+    left: 5%;
+    top: 100px;
+    width: 90%;
+    height: 300px;
+}
+
+.buttoncomment{
+    left: 30%;
+    width: 40%;
+}
+
+.allcomments{
+    left: 5%;
+    top: 150px;
+    width: 90%;
+}
+
+.footercontenedorarticle{
+    height: 1500px;
+}
+
+.footersocial ul{
+    left: -6%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Mi PC**/
+
+@media (min-width: 1051px) and (max-width: 1230px){
+
+       /** index.views - Mi PC**/
+
+    .menu-encabezado{
+        left: 53.5%;
+    }
+
+    .titulo{
+        position: relative;
+        margin-top: 7%;
+        margin-bottom: 5%;
+        font-size: 2em;
+    }
+
+    .titulo-producto{
+        position: relative;
+        margin-top: 20%;
+        margin-bottom: 5%;
+        font-size: 1.2em;
+    }
+
+    .elemento1{
+        font-size: 0.8em;
+    }
+
+    .elemento2{
+        font-size: 0.8em;
+    }
+
+    
+
+    .footercontenedorhome{
+        
+    }
+
+    .footercontenedorhome p{
+        font-size: 0.8em;
+    }
+
+    .footercontenedorhome a{
+        font-size: 0.8em;
+    }
+
+    .footerempresa{
+        left: 5%;
+    }
+
+    .p2{
+        
+    }
+
+    .footertwitterfeed{
+        left: 30%;
+    }
+
+    .footersocial{
+        width: 15%;
+        left: 40%;
+    }
+
+    .footerblog{
+        left: 75%;
+    }
+
+    .footerblog img{
+        width: 35%;
+    }
+
+    .footerblogarticulo1{
+        top: 35%;
+        left: 40%;
+    }
+
+    .footerblogarticulo2{
+        top: 110%;
+        left: 40%;
+    }
+
+    .footerblogarticulo3{
+        top: 180%;
+        left: 40%;
+    }
+
+    .footerend{
+        
+    }
+
+    .footerend h6{
+        margin-top: 2%;
+        font-size: 1.2em;
+    }
+
+/** partner-with-us.views - Mi PC**/
+    
+    .partner-paragraph{
+        position: absolute;
+        top: 30%;
+        text-align: center;
+        left: 5%;
+        width: 90%;
+    }
+
+    .form-partner-with-us{
+    position: absolute;
+    left: 5%;
+    top: 300px;
+    height: 600px;
+    width: 90%;
+    margin-bottom: 20%;
+    font-size: 1em;
+    }
+
+    .field6{
+        font-size: .95em;
+    }
+
+    .field7 {
+    position: absolute;
+    top: 55%;
+    left: 31%;
+    color: black;
+    }
+
+    .field8{
+        top:61%;
+        height: 10%;
+    }
+
+    .field9{
+        top: 73%;
+        height: 12%;
+    }
+
+    .fieldbutton{
+        left: 20%;
+        width: 60%;
+    }
+
+    .footercontenedorpartnerwithus{
+        position: absolute;
+        top: 950px;
+        height: 900px;
+    }
+
+    .footercontenedorpartnerwithus p{
+        font-size: 0.8em;
+    }
+
+    .footercontenedorpartnerwithus a{
+        font-size: 0.8em;
+    }
+
+/** mobile-cell-phones.php - Mi PC**/
+
+    .menu-ruta{
+        top: 33%;
+        left: 5%;
+        font-size: 0.7em;
+    }
+
+    .cuadro{
+        top: 38%;
+        left: 5%;
+        width: 90%;
+    }
+
+    .producto1{
+        height: 20%;
+    }
+
+    .infoproducto1{
+        height: 20%;
+    }
+
+    .infoproducto1 h3{
+        font-size: 1em;
+    }
+
+    .infoproducto1 a{
+        top: 50%;
+    }
+
+    .producto2{
+        height: 20%;
+    }
+
+    /** samsung-galaxy-note-10-plus-mobile-phone.php - Mi PC**/
+
+    .cuadroproducto{
+        top: 43%;
+        left: 5%;
+        width: 90%;
+        height: 80%;
+    }
+
+    .detalleimagenproducto1{
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 80%;
+        height: 40%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+    }
+
+    .detalleimagenproducto1 img{
+        width: 80%;
+        height: 80%;
+        margin:10%;
+        border-style: solid;
+        border-color: grey;
+        border-width: 1px;
+        border-radius: 10pt;
+    }
+
+    .detalleproducto1 h6{
+        left: 2%;
+        top: 48%;
+    }
+
+    .detalleproducto1 a{
+        position: absolute;
+        top: 90%;
+        left: 40%;
+    }
+    /** business.views - Mi PC**/
+
+    .loginbusiness{
+        top: 260px;
+        left: 20%;
+        width: 60%;
+        height: 250px;
+        font-size: 1em;
+    }
+
+    .enterbusinessname{
+        left: 10%;
+        width: 80%;
+    }
+
+    .enterpassword{
+        left: 10%;
+        width: 80%;
+    }
+
+    .footercontenedorbusiness{
+    position: absolute;
+    display: inline;
+    left: 0%;
+    top: 700px;
+    width: 100%;
+    height: 600px;
+}
+
+    .footercontenedorbusiness p{
+        font-size: 0.8em;
+    }
+
+    .footercontenedorbusiness a{
+        font-size: 0.8em;
+    }
+
+/** business-session.views - Mi PC**/
+
+    .menu-encabezado-empresa{
+        font-size: 0.6em;
+        top: 7.5%;
+        left: 65%;
+    }
+
+    .titulo-business{
+        top: 130px;
+        height: 55px;
+        left: 5%;
+        width: 90%;
+    }
+
+    .fondopromo{
+        width: 90%;
+    }
+
+    .caja22{
+        top: 190px;
+        left: 5%;
+        width: 90%;
+        height: 230px;
+    }
+
+    #currency{
+        left: 75%;
+        height: 12%;
+        width: 20%;
+    }
+
+    .carga{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    height: 80%;
+    width: 25%;
+    }
+
+    .subir h2{
+    left: 24%;
+    }   
+
+    .panel{
+        top: 480px;
+        left: 5%;
+        width: 90%;
+        height: 600px;
+    }
+
+    .analisis1{
+        height: 80%;
+    }
+
+    .analisis1-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis1 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis1-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis1-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis1-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2{
+        height: 80%;
+        top: 85%;
+    }
+
+    .analisis2-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis2 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis2-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis2-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis2-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis3{
+        height: 80%;
+        top: 168%;
+    }
+
+    .analisis3-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis3 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis3-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis3-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis3espera{
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4{
+        height: 80%;
+        top: 251%;
+    }
+
+    .analisis4-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis4 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis4-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis4-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis4-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis5{
+        height: 80%;
+        top: 334%;
+    }
+
+    .analisis5-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis5 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis5-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis5-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis5-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    .analisis6{
+        height: 80%;
+        top: 417%;
+    }
+
+    .analisis6-titulo{
+        position: absolute;
+        top: 2%;
+        left: 28%;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .analisis6 img{
+        left: 5%;
+        width: 50%;
+        top: 15%;
+        height: 30%;
+    }
+
+    .analisis6-contenido{
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+
+    .analisis6-precio{
+        position: absolute;
+        top: 15%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .analisis6-currency{
+        position: absolute;
+        top: 15%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 1.2em;
+}
+
+    /** about.php - Mi PC**/
+
+    .contenedor-about{
+        top: 25%;
+    }
+
+    .about1{
+        
+    }
+
+    .about1-text{
+        
+    }
+
+    .about1-text h3{
+        font-size: 1.5em;
+    }
+
+    .about1-image{
+        top: 11%;
+    }
+
+    .about1-image img{
+        width: 75%;
+    }
+
+    .about1-text p{
+        font-size: 0.8em;
+        top: 15%;
+    }
+
+    .about2{
+        top: 20%;
+    }
+
+    .about2-text{
+        
+    }
+
+    .about2-text h3{
+        font-size: 1.5em;
+    }
+
+    .about2-image{
+        
+    }
+
+    .about2-image img{
+        width: 30%;
+    }
+
+    .about2-text p{
+        font-size: 0.8em;
+        top: 20%;
+    }
+
+    .about3{
+        top: 40%;
+    }
+
+    .about3-text{
+        
+    }
+
+    .about3-text h3{
+        font-size: 1.5em;
+    }
+
+    .about3-image{
+        
+    }
+
+    .about3-image img{
+ 
+    }
+
+    .about3-text p{
+        font-size: 0.8em;
+        top: 20%;
+    }
+
+    .footercontenedorabout{
+        top: 170%;
+        height: 90%;
+    }
+
+    .footercontenedorabout p{
+        font-size: 0.8em;
+    }
+
+    .footercontenedorabout a{
+        font-size: 0.8em;
+    }
+
+    /** contact.views - Mi PC**/
+
+    .partner-paragraph-contact{
+        position: absolute;
+        top: 38%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-contact{
+    position: absolute;
+    left: 20%;
+    top: 300px;
+    height: 400px;
+    width: 60%;
+    font-size: 1.2em;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    margin-bottom: 20%;
+}
+
+.fieldcontact1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact2 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact3 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldcontact4 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 12%;
+    width: 90%;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    box-shadow: 6px 6px 6px #999;
+    
+}
+
+.fieldbuttoncontact{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+    background: #53E7E6;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    color: grey;
+}
+
+.fieldbuttoncontact:hover{
+    background: #24F6F5;
+    border-color: white;
+    color: white;
+}
+
+.footercontenedorcontact{
+    position: absolute;
+    display: inline;
+    top: 950px;
+    width: 100%;
+    height: 700px;
+} 
+
+.footercontenedorcontact p{
+        font-size: 0.8em;
+    }
+
+.footercontenedorcontact a{
+        font-size: 0.8em;
+    }
+
+}

@@ -1,0 +1,5 @@
+[20-Aug-2020 09:22:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/extmq3kh8s27/public_html/ajax/articles/art1/fetch_comment_art1.php:15
+Stack trace:
+#0 /home/extmq3kh8s27/public_html/ajax/articles/art1/fetch_comment_art1.php(15): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/extmq3kh8s27/public_html/ajax/articles/art1/fetch_comment_art1.php on line 15
